@@ -1,0 +1,21 @@
+.container {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid ;
+    background-color: white;
+    text-align: center;
+}
+body {
+    background-image: linear-gradient(to right, pink, rgb(184, 78, 95) );
+}
+
+input {
+    background-color: antiquewhite;
+}
+textarea {
+    background-color: antiquewhite;
+}
+
+        
+

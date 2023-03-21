@@ -1,0 +1,13 @@
+.container {
+   text-align: center;
+}
+body {
+    background-image: linear-gradient(to right, pink, rgb(184, 78, 95) );
+}
+#img {
+    text-align: center; 
+}
+body input {
+    color: darkgray;
+}
+
