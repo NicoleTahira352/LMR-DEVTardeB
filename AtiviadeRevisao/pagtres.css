@@ -1,5 +1,5 @@
 body {
-    background-color: whitesmoke;
+    background-color: #f4e4cd;
     margin: 0%;
 }
 .nav{
@@ -61,7 +61,24 @@ body {
     color: black;
     font-weight: bold
 }
-.outdoor{
-    height: 80vh;
+.container{
     width: 100%;
+    display: flex;
+
+}
+.container .prod1{
+    width: 30%;
+    margin-left: 50px;
+    background-color: #f4e4cd;
+   
+}
+.container .prod1 .texto{
+    font-size: 10px;
+    text-align: center;
+}
+.container .prod1 img{
+    width: 100%;
+    margin:auto;
+
+
 }

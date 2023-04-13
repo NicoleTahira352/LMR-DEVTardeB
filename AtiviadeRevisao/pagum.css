@@ -1,0 +1,97 @@
+body {
+    background-color: whitesmoke;
+    margin: 0%;
+}
+.nav{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav img{
+ height: 70px;   
+
+}
+.nav .linkMenu{
+ text-decoration: none;
+ font-size: 24px;
+ color: black;
+}
+.nav .menu {
+ width: 50%;
+ display: flex;
+ justify-content: space-around;
+}
+.nav .hamburguer{
+ display: none;  
+} 
+.menu2{
+    width: 100%;
+    height: 4vh;
+    background-color: hwb(69 71% 16%);
+    
+}
+.menu2 .link2 {
+    width: 60%;
+    height: 100%;
+    align-items: center;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.menu2 .link2 a{
+    color: black;
+    font-weight: bold
+}
+.outdoor{
+    height: 80vh;
+    width: 100%;
+}
+.container{
+    width: 100%;
+    display: flex;
+    background-image: url(img/cardapio-starbucks.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container .cardapio{
+    width: 40%;
+    height: 100%;
+}
+.container .bebida1{
+    background-color: whitesmoke;
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 100px;
+    
+}
+.container .bebida1 img{
+    width: 100%;
+    height: 67%;
+    align-items: center;
+}
+.container .texto{
+    margin-left: 10px;
+    width: 100%;
+    align-items: center;
+}
+
+.container .bebida2{
+    background-color: whitesmoke;
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 50px;
+    
+}
+.container .bebida2 img{
+    height: 67%;
+    width: 100%;
+    align-items: center;
+}
+
+
+
+    
